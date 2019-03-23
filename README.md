@@ -1,3 +1,4 @@
 # maven-project
-Source code for Jenkins study.
+Dummy project for jenkins study
+
 
